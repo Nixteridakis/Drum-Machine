@@ -1,3 +1,2 @@
-##Drum machine
-
-Made using React
+You can view the project here: 
+https://nixteridakis-drum-machine.herokuapp.com/
