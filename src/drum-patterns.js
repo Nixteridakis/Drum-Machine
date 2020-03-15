@@ -3,130 +3,112 @@ const patternA = [
 	{
 		name: "Kick 1",
 		key: "Q",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0zg6JnbSFa2&command=download_mp3",
+		source:"https://media.vocaroo.com/mp3/nHOdaLPJbnE",
 		keycode: 81
 	},
 	{
 		name: "Kick 2",
 		key: "W",
-		source:
-      "https://vocaroo.com/media_command.php?media=s00LKxveVID4&command=download_mp3",
+		source:"https://media.vocaroo.com/mp3/aDp8fr0hd2d",
 		keycode: 87
 	},
 	{
 		name: "Cymbal",
 		key: "E",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0s990zpaIVo&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/1rltwu9NPai",
 		keycode: 69
 	},
 	{
 		name: "Hat",
 		key: "A",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0ry9rxpvEaU&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/h1ynB5cYQWL",
 		keycode: 65
 	},
 	{
-		name: "Percussion",
+		name: "Clap",
 		key: "S",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0Ed4ykO4bCw&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/8RCBgj8GJax",
 		keycode: 83
 	},
 	{
-		name: "Snare 1",
+		name: "Snare",
 		key: "D",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0zdFPzNc6Zl&command=download_mp3",
+		source:"https://media.vocaroo.com/mp3/g9Z3LiPNChT",
 		keycode: 68
 	},
 	{
-		name: "Snare 2",
+		name: "Conga",
 		key: "Z",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0c0NIE0KAlj&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/LpLRe4AGXJL",
 		keycode: 90
 	},
 	{
 		name: "Tom 1",
 		key: "X",
-		source:
-      "https://vocaroo.com/media_command.php?media=s05psaHLsYUi&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/95UjmpEdhvB",
 		keycode: 88
 	},
 	{
 		name: "Tom 2",
 		key: "C",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0sYrbXbkZex&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/6QVUxh2jivR",
 		keycode: 67
 	}
 ]
 
 const patternB = [
 	{
-		name: "Funk Bass",
+		name: "Loop 1",
 		key: "Q",
-		source:
-      "https://vocaroo.com/media_command.php?media=s12BrPZQYsfE&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/hHUdq4FewXd",
 		keycode: 81
 	},
 	{
-		name: "Funk Bass 2",
+		name: "Loop 2",
 		key: "W",
-		source:
-      "https://vocaroo.com/media_command.php?media=s1jJkrJuTxv0&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/nEtjSevbgw8",
 		keycode: 87
 	},
 	{
-		name: "Chord",
+		name: "Bass 1",
 		key: "E",
-		source:
-      "https://vocaroo.com/media_command.php?media=s1x5c5oupfDh&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/nL2hTT5KrHi",
 		keycode: 69
 	},
 	{
-		name: "Chord 2",
+		name: "Bass 2",
 		key: "A",
-		source:
-      "https://vocaroo.com/media_command.php?media=s1x5c5oupfDh&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/8xLiVMdHvwg",
 		keycode: 65
 	},
 	{
-		name: "Clap",
+		name: "Synth",
 		key: "S",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0Hg3jPT9DC2&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/muatKPkL299",
 		keycode: 83
 	},
 	{
-		name: "Kick 1",
+		name: "Ukelele",
 		key: "D",
-		source:
-      "https://vocaroo.com/media_command.php?media=s19NJ9KP862F&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/hpudDj71QFx",
 		keycode: 68
 	},
 	{
-		name: "Kick 2",
+		name: "Vocal 1",
 		key: "Z",
-		source:
-      "https://vocaroo.com/media_command.php?media=s1pNql863Kn7&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/j9efS6dd4zP",
 		keycode: 90
 	},
 	{
-		name: "Guitar Lick",
+		name: "Vocal 2",
 		key: "X",
-		source:
-      "https://vocaroo.com/media_command.php?media=s0w6oa5HHrg4&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/hTv9w3V9dg7",
 		keycode: 88
 	},
 	{
-		name: "Synth Loop",
+		name: "Bass 3",
 		key: "C",
-		source:
-      "https://vocaroo.com/media_command.php?media=s1zrE3ZZH6g3&command=download_mp3",
+		source: "https://media.vocaroo.com/mp3/edv6WTIj99O",
 		keycode: 67
 	}
 ]
